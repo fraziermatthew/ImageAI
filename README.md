@@ -1,13 +1,3 @@
-[Overview](#overview)
-[System Requirements](#requirements)
-[Dependencies](#dependencies)
-[Experiments](#experiments)
-[imageai.ipynb](#imageai)
-[imageaimodel.ipynb](#imageaimodel)
-[imageaivideo.ipynb](#imageaivideo)
-[neuralnetwork.ipynb](#neuralnetwork)
-[Documentation](#documentation) 
-
 ![imageailogo](http://imageai.org/xlogo2.png.pagespeed.ic.0XXrMSSEh2.png "ImageAI")
 
 <a name="overview"/>
