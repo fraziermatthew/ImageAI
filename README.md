@@ -1,15 +1,14 @@
 [Overview](#overview)
+[System Requirements](#requirements)
+[Dependencies](#dependencies)
+[Experiments](#experiments)
+[imageai.ipynb](#imageai)
+[imageaimodel.ipynb](#imageaimodel)
+[imageaivideo.ipynb](#imageaivideo)
+[neuralnetwork.ipynb](#neuralnetwork)
+[Documentation](#documentation) 
 
-[System Requirements](##requirements)
-[Dependencies](###dependencies)
-[Experiments](##experiments)
-[imageai.ipynb](###imageai)
-[imageaimodel.ipynb](###imageaimodel)
-[imageaivideo.ipynb](###imageaivideo)
-[neuralnetwork.ipynb](###neuralnetwork)
-[Documentation](##documentation) 
-
-![imageailogo](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwix_KPOiOLhAhXxT98KHQfvBJgQjRx6BAgBEAU&url=http%3A%2F%2Fimageai.org%2F&psig=AOvVaw1vD6gt-7qMFJHEbhCIt2C1&ust=1555966380898441 "ImageAI")
+![imageailogo](http://imageai.org/xlogo2.png.pagespeed.ic.0XXrMSSEh2.png "ImageAI")
 
 <a name="overview"/>
 # Overview
