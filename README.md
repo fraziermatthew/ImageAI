@@ -10,7 +10,7 @@
 [neuralnetwork.ipynb](#neuralnetwork)
 [Documentation](#documentation) 
 
-<a name="overview"/>
+<a name="overview"></a>
 # Overview
 Created by Moses Olafenwa and John Olafenwa, *ImageAI 2.0.2* serves as a gateway into Deep Learning using Machine Learning algorithms for image prediction, object detection, video detection, custom image prediction, and video object tracking.  This library features pre-trained models of traditional algorithms including RetinaNet, YOLOv3, TinyYOLOv3, SqueezeNet, ResNet50, InceptionV3, DenseNet121, and others.
 
