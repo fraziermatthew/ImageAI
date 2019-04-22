@@ -76,7 +76,7 @@ A series of Image Detection tests including the following:
 
 The video results were too large to post to Github. Please view the video results [here](https://drive.google.com/drive/folders/1jltSszrswJDLXHnJPKKzhWIc4y1MchnD?usp=sharing).
 
-<img source="https://github.com/fraziermatthew/ImageAI/blob/master/video/results/graph1.png?raw=true"></img>
+<img src="https://github.com/fraziermatthew/ImageAI/blob/master/video/results/graph1.png?raw=true"></img>
 
 <a name="neuralnetwork"></a>
 ### neuralnetwork.ipynb
