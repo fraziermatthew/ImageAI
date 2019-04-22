@@ -74,6 +74,8 @@ A series of Image Detection tests including the following:
 
 2. Custom video analysis using data supplied by the Video/Image Modeling and Synthesis Lab (VIMS) at the University of Delaware.
 
+The video results were too large to post to Github. Please view the video results [here](https://drive.google.com/drive/folders/1jltSszrswJDLXHnJPKKzhWIc4y1MchnD?usp=sharing).
+
 <a name="neuralnetwork"></a>
 ### neuralnetwork.ipynb
 A series of Neural Network examples including the following:
@@ -89,3 +91,6 @@ A series of Neural Network examples including the following:
 <a name="documentation"></a>
 ## Documentation
 The Official GitHub Repository of ImageAI is located [here](https://github.com/OlafenwaMoses/ImageAI). Read the documentation of ImageAI found [here](https://imageai.readthedocs.io/en/latest/index.html).
+
+Links to models
+https://drive.google.com/drive/folders/1YsJelqbMTzqijU1sJYZNOBjeSGDHNfnA?usp=sharing
