@@ -44,7 +44,7 @@ Google Colaboratory’s virtual environment was used in these experiments which 
 !pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
 ```
 
-A system performance test on the virtual machine prior to conducting the experiments produces a usage of general RAM free at 12.9 GB, processor size of 142.7 MB, and GPU RAM free at 11,441 MB. 
+A system performance test on the virtual machine prior to conducting the experiments produces a usage of general RAM free at 12.9 GB, processor size of 142.7 MB, and GPU RAM free at 11,441 MB. Links to models can be found [here](https://drive.google.com/drive/folders/1YsJelqbMTzqijU1sJYZNOBjeSGDHNfnA?usp=sharing).
 
 <a name="experiments"></a>
 ## Experiments
@@ -91,6 +91,3 @@ A series of Neural Network examples including the following:
 <a name="documentation"></a>
 ## Documentation
 The Official GitHub Repository of ImageAI is located [here](https://github.com/OlafenwaMoses/ImageAI). Read the documentation of ImageAI found [here](https://imageai.readthedocs.io/en/latest/index.html).
-
-Links to models
-https://drive.google.com/drive/folders/1YsJelqbMTzqijU1sJYZNOBjeSGDHNfnA?usp=sharing
