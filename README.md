@@ -90,6 +90,8 @@ A series of Neural Network examples including the following:
 
 4. Data Augmentation example using a Convolutional Neural Network the the MNIST dataset.
 
+<img src="https://github.com/fraziermatthew/ImageAI/blob/master/image/3.png?raw=true"></img>
+
 <a name="documentation"></a>
 ## Documentation
 The Official GitHub Repository of ImageAI is located [here](https://github.com/OlafenwaMoses/ImageAI). Read the documentation of ImageAI found [here](https://imageai.readthedocs.io/en/latest/index.html).
