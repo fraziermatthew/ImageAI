@@ -1,4 +1,4 @@
-<img src="http://imageai.org/xlogo2.png.pagespeed.ic.0XXrMSSEh2.png" width="150" height="150"></img>
+<img src="http://imageai.org/static/imageailogo.png" width="150" height="150"></img>
 # Table of Contents
 
 - [Overview](#overview)
